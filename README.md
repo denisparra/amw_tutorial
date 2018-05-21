@@ -10,6 +10,7 @@ by [Denis Parra](http://web.ing.puc.cl/~dparra/), PUC Chile
 ### Altair (in a nutshell) tutorial 
 
 [Altair](https://altair-viz.github.io) is a declarative statistical visualization library for Python, based on Vega and Vega-Lite. 
-In order to present the ideas of marks and channels, I provide some examples with a jupyter notebook:
+In order to present the ideas of marks and channels, I provide some examples with a jupyter notebook. Bear in mind that this
+demo worked with python 3.6, it did not work with python 3.5.2 (although [installation details](https://altair-viz.github.io/getting_started/installation.html#dependencies) state that Python 3.5 should be enough)
 
 + [Altair tutorial notebook](altari1.ipynb)

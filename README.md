@@ -13,4 +13,4 @@ by [Denis Parra](http://web.ing.puc.cl/~dparra/), PUC Chile
 In order to present the ideas of marks and channels, I provide some examples with a jupyter notebook. Bear in mind that this
 demo worked with python 3.6, it did not work with python 3.5.2 (although [installation details](https://altair-viz.github.io/getting_started/installation.html#dependencies) state that Python 3.5 should be enough)
 
-+ [Altair tutorial notebook](altari1.ipynb)
++ [Altair tutorial notebook](altair1.ipynb)
